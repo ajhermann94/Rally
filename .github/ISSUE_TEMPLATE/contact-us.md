@@ -1,9 +1,8 @@
 ---
 name: Contact Us
-about: Describe this issue template's purpose here.
+about: Describe the issue here:
 title: ''
 labels: ''
-assignees: ''
 
 ---
 

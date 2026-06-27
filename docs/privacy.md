@@ -8,9 +8,6 @@ layout: default
 **App:** Rally: Motivation Alarm ("Rally", "we", "us")
 **Contact:** open an issue at https://github.com/ajhermann94/rally/issues
 
-> Template — not legal advice. Have it reviewed before publishing, and fill in
-> every [BRACKETED] value.
-
 Rally is a motivational alarm app. This policy explains what we collect, why,
 and your choices.
 

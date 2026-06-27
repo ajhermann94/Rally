@@ -1,8 +1,8 @@
 # Terms of Use (EULA) — Rally
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** June 27, 2026
 **App:** Rally: Motivation Alarm ("Rally", "we", "us")
-**Contact:** open an issue at [GITHUB ISSUES URL] (e.g. `https://github.com/<your-username>/rally/issues`)
+**Contact:** open an issue at https://github.com/ajhermann94/rally/issues
 
 > Template — not legal advice. Have it reviewed before publishing, and fill in
 > every [BRACKETED] value. These terms are written to satisfy Apple's
@@ -69,11 +69,11 @@ consequential damages arising from your use of Rally.
 We may suspend or terminate access for violations of these Terms.
 
 ## 10. Governing law
-These Terms are governed by the laws of [YOUR STATE/COUNTRY], without regard to
+These Terms are governed by the laws of the State of Ohio, USA, without regard to
 conflict-of-laws rules.
 
 ## 11. Changes
 We may update these Terms; continued use after changes means you accept them.
 
 ## Contact
-open an issue at **[GITHUB ISSUES URL]**
+open an issue at **https://github.com/ajhermann94/rally/issues**

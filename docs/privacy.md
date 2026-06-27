@@ -1,3 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — Rally</title>
+    <style>
+        :root { --bg-black: #080808; --text-white: #eeeeee; --crimson: #a81c1c; }
+        body { margin: 0; background-color: var(--bg-black); color: var(--text-white); font-family: 'Inter', sans-serif; padding: 40px; line-height: 1.6; }
+        .doc-wrapper { max-width: 800px; margin: 0 auto; }
+        h1, h2 { color: var(--crimson); text-transform: uppercase; }
+        a { color: var(--crimson); }
+        .back-link { display: inline-block; margin-top: 20px; color: var(--text-white); border: 1px solid var(--text-white); padding: 10px 20px; text-decoration: none; text-transform: uppercase; font-size: 12px; }
+        .back-link:hover { background: var(--crimson); border-color: var(--crimson); }
+    </style>
+</head>
+<body>
+    <div class="doc-wrapper">
+        <h1>Privacy Policy</h1>
+        <!-- Paste your policy content here -->
+        
+        <a href="../index.html" class="back-link">← Back to Mission</a>
+    </div>
+</body>
+</html>
+
 # Privacy Policy — Rally
 
 **Effective date:** June 27, 2026

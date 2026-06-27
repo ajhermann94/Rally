@@ -8,10 +8,6 @@ layout: default
 **App:** Rally: Motivation Alarm ("Rally", "we", "us")
 **Contact:** open an issue at https://github.com/ajhermann94/rally/issues
 
-> Template — not legal advice. Have it reviewed before publishing, and fill in
-> every [BRACKETED] value. These terms are written to satisfy Apple's
-> User-Generated Content requirements (Guideline 1.2).
-
 By downloading or using Rally, you agree to these Terms. If you don't agree,
 don't use the app.
 

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RALLY: Precision Motivation Alarm</title>
+    <style>
+        :root {
+            --bg-black: #080808;
+            --text-white: #eeeeee;
+            --crimson: #a81c1c;
+        }
+
+        body {
+            margin: 0;
+            background-color: var(--bg-black);
+            color: var(--text-white);
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .rally-wrapper {
+            text-align: center;
+            max-width: 700px;
+            padding: 40px;
+        }
+
+        .rally-header {
+            font-size: 64px;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -2px;
+            margin-bottom: 5px;
+            color: var(--text-white);
+        }
+
+        .rally-tagline {
+            font-size: 20px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--crimson);
+            margin-bottom: 40px;
+        }
+
+        .mission-log {
+            text-align: left;
+            margin-bottom: 40px;
+            border-left: 3px solid var(--crimson);
+            padding-left: 20px;
+        }
+
+        .mission-step {
+            margin-bottom: 20px;
+        }
+
+        .mission-step strong {
+            display: block;
+            color: var(--crimson);
+            font-size: 18px;
+        }
+
+        .doc-link {
+            display: inline-block;
+            text-decoration: none;
+            color: var(--text-white);
+            border: 1px solid var(--text-white);
+            padding: 10px 20px;
+            margin: 5px;
+            font-size: 14px;
+            text-transform: uppercase;
+            transition: 0.3s;
+        }
+
+        .doc-link:hover {
+            background: var(--crimson);
+            border-color: var(--crimson);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="rally-wrapper">
+        <h1 class="rally-header">Rally</h1>
+        <p class="rally-tagline">Precision Motivation Alarm</p>
+
+        <section class="mission-log">
+            <div class="mission-step">
+                <strong>THE PRIME</strong>
+                A tactical ramp-up of gradient light and auditory cues to bring your nervous system to the surface.
+            </div>
+            <div class="mission-step">
+                <strong>THE DROP</strong>
+                Zero-latency execution. A new, high-impact motivational video delivered the moment the mission starts.
+            </div>
+        </section>
+
+        <p>Wake up with intention. Never the same, always locked in.</p>
+
+        <nav>
+            <a href="privacy.md" class="doc-link">Privacy</a>
+            <a href="terms.md" class="doc-link">Terms</a>
+            <a href="support.md" class="doc-link">Support</a>
+        </nav>
+    </div>
+
+</body>
+</html>

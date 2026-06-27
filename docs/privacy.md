@@ -1,8 +1,8 @@
 # Privacy Policy — Rally
 
-**Effective date:** [EFFECTIVE DATE]
+**Effective date:** June 27, 2026
 **App:** Rally: Motivation Alarm ("Rally", "we", "us")
-**Contact:** open an issue at [GITHUB ISSUES URL] (e.g. `https://github.com/<your-username>/rally/issues`)
+**Contact:** open an issue at https://github.com/ajhermann94/rally/issues
 
 > Template — not legal advice. Have it reviewed before publishing, and fill in
 > every [BRACKETED] value.
@@ -46,7 +46,7 @@ We do not sell your personal information.
 - **You can delete your account in the app:** Settings → Delete Account. This
   permanently removes your profile, vault, flags, and blocks. Clips you submitted
   to the public Library are anonymized (disassociated from you) and may remain.
-- You may also request deletion via our GitHub Issues page ([GITHUB ISSUES URL]).
+- You may also request deletion via our GitHub Issues page (https://github.com/ajhermann94/rally/issues).
 
 ## Security
 Data is transmitted over HTTPS and protected by row-level security so users can
@@ -61,4 +61,4 @@ We may update this policy; we'll revise the effective date above and, for materi
 changes, notify you in-app.
 
 ## Contact
-Questions: open an issue at **[GITHUB ISSUES URL]**
+Questions: open an issue at **https://github.com/ajhermann94/rally/issues**

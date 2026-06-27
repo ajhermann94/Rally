@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Terms of Use (EULA) — Rally
 
 **Effective date:** June 27, 2026

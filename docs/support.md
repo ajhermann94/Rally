@@ -1,6 +1,6 @@
 # Rally — Support
 
-**Contact:** open an issue on GitHub — [GITHUB ISSUES URL] (e.g. `https://github.com/<your-username>/rally/issues`). We aim to respond within a few days.
+**Contact:** open an issue on GitHub — https://github.com/ajhermann94/rally/issues. We aim to respond within a few days.
 
 ## FAQ
 

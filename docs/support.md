@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Rally — Support
 
 **Contact:** open an issue on GitHub — https://github.com/ajhermann94/rally/issues. We aim to respond within a few days.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Privacy Policy — Rally
 
 **Effective date:** June 27, 2026
